@@ -3,7 +3,7 @@
 ## I code Python because it is the fastest path from idea to production
 
 - I create easy to follow Python content on the [Learn Python With Rune][youtube] YouTube channel 
-- There you can find free educational content about Python, Data Science, Machine Learning, and Financial Analysiss with Python
+- There you can find free educational content about [Python](https://youtube.com/playlist?list=PLvMRWNpDTNwTNwsQmgTvvG2i1znjfMidt), [Data Science](https://youtube.com/playlist?list=PLvMRWNpDTNwQ0wzQYY_lk2sedyzgHaZm3), [Machine Learning](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF), and [Financial Analysiss](https://youtube.com/playlist?list=PLvMRWNpDTNwQF6t_Tq7aVX0AI6H1avSpv) all with Python
 - You can find 200+ tutorials on my [Website][website]
 - Connect with others on my [Discord server][discord]
 - For most tutorials the corresponding code is here on GitHub
