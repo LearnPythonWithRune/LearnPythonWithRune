@@ -1,6 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rune from Learn Python With Rune][website]
 
-## I code Python because it solves problems easy
+## I code Python because it is the fastest path from idea to production
 
 - I create easy to follow Python content on the [Learn Python With Rune][youtube] YouTube channel 
 - There you can find free educational content about Python, Data Science, Machine Learning, and Financial Analysiss with Python
@@ -17,14 +17,10 @@ There are more see them on [LearnPythonWithRune.org][website]
 
 ## Social media
 
-I post weekly Python programming videos on YouTube
-- See my YouTube channel [Learn Python With Rune][youtube]
-
-I tweet all the time about Python stuff
-- See my Twitter profile [@PythonWithRune][twitter]
-
-I post on Facebook about Python
-- See my page on Facebook [Learn Python With Rune][facebook]
+- Subscribe to my YouTube channel [Learn Python With Rune][youtube] and learn Python from the industry
+- You can connect with me on Twitter profile [@PythonWithRune][twitter], where I engage with Python learners
+- If you prefer Facebook get in touch with me through [Learn Python With Rune][facebook]
+- Follow and star the repos you enjoy here on [GitHub/LearnPythonWithRune](https://github.com/LearnPythonWithRune)
 
 ---
 
