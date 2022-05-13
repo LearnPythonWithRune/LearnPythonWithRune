@@ -24,9 +24,12 @@ You find the rest on [LearnPythonWithRune.org][website]
 
 ---
 
-## GitHub Stats 💻
+## Social Stats 💻
+![YouTube Subscribers](yt-subscribers.png "YouTube Subscribers")
+![Twitter Followers](tw-followers.png "Twitter Followers")
+![Facebook Followers](fb-followers.png "Facebook Followers")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LearnPythonWithRune&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats 💻
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LearnPythonWithRune&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
