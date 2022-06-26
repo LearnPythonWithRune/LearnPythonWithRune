@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rune from Learn Python With Rune][website]
+# [Hi, I am Rune from Learn Python With Rune][website]
 
 ## I code Python because it is the fastest path from idea to production
 
